@@ -14,13 +14,13 @@ Our courses help to improve the learning process in face-to-face and distance cl
 
 In addition, we aim to create a cross-disciplinary knowledge-sharing teaching community. We know, and the evidence also supports, that better results are obtained when we teach in community.
 
-## What we **don't** offer?
+## What we **don't** offer
 
 * In-depth courses. Our courses are all introductory.
 * Theoretical contents. Our courses are 100% practical.
 * Certificates of any kind.
 
-## What model do we follow?
+## Which model do we follow
 
 We are guided by these teaching principles:
 
