@@ -35,11 +35,7 @@ Nos guían estos principios docentes:
 * ... que cada clase es demasiado corta para quien enseña y demasiado larga para quien la recibe ...
 * ... y que nadie tendrá más entusiasmo que vos por tu clase.
 
-Seguimos este [código de conducta](código-de-conducta/README.md).
+Seguimos este [código de conducta](CÓDIGO-DE-CONDUCTA.md).
 
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
 
-
-## ¿Querés que te mandemos novedades?
-
-Por favor, completá [este formulario](https://forms.gle/wTQCxCoCe6jGTy217).

@@ -35,6 +35,6 @@ We are guided by these teaching principles:
 * ... that each class is too short for the one who teaches and too long for the one who receives it...
 * ...and no one will be more enthusiastic about your class than you.
 
-We follow this [code of conduct](coc.md).
+We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
 These principles arise from the experience of [The Carpentries](https://carpentries.org), which has been training teachers for two decades and are developed in the free book [Teaching Tech Together](https://teachtogether.tech/).
