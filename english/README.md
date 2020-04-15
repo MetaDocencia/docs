@@ -4,7 +4,7 @@ We were born on March 16, 2020 out of the need to virtualize university classes 
 
 ## Our mission and what we offer
 
-We aim to share practical tools to help those dedicated to teaching with the virtualization of their classes. We give onine in-person courses (also called synchronous online courses). We design these courses with higher level teachers in mind (tertiary/university) but teachers of other levels and students who want to collaborate in the classes can also participate.
+We aim to share practical tools to help those dedicated to teaching with the virtualization of their classes. We give onine in-person [courses](https://metadocencia.netlify.app/cursos/) (also called synchronous online courses). We design these courses with higher level teachers in mind (tertiary/university) but teachers of other levels and students who want to collaborate in the classes can also participate.
 
 Our virtual courses are short and centerd in the design of materials and classroom management to maximise students' learning without anyone getting too tired. 
 	

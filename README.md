@@ -4,11 +4,11 @@ Nacemos el 16 de Marzo de 2020 por la necesidad de virtualizar clases universita
 
 ## Nuestra misión y qué ofrecemos
 
-Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](/cursos) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
+Nos proponemos socializar herramientas prácticas para acompañar a las personas que se dedican a la docencia en la virtualización de la enseñanza. Damos [cursos](https://metadocencia.netlify.app/cursos/) presenciales y online (también llamados cursos sincrónicos online). Diseñamos estos cursos pensando en docentes de nivel superior (terciario/universitario) pero también pueden participar docentes de otros niveles y estudiantes que quieran colaborar en las clases.
 
 Nuestros cursos virtuales son cortos y aplicados al diseño de materiales y una gestión del aula para que tus estudiantes maximicen su aprendizaje sin que nadie se desgaste de más. 
 
-Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](https://metadocencia.netlify.com/terms/). Es decir, podés reusar o editar cualquier material que aparece en nuestra web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a nuestra web.
+Todos nuestros cursos son gratuitos y nuestros materiales tienen [licencia abierta](LICENCIA.md). Es decir, podés reusar o editar cualquier material que aparece en nuestra web, lo único que pedimos a cambio es que en cualquier material que generes reusando nuestros contenidos incluyas una referencia a nuestra web.
 
 Nuestros cursos ayudan a mejorar el aprendizaje en clases presenciales y a distancia. Usamos técnicas pedagógicas modernas, basadas en evidencia, que mejoran los resultados educativos. 
 
