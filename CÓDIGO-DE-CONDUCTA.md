@@ -30,7 +30,7 @@ También tenemos la responsabilidad y nos reservamos el derecho de eliminar, edi
 
 ## Alcance
 
-Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluyen nuestra cuenta de correo electrónico, nuestro Slack, nuestros talleres a través de Zoom y cualquier otro medio que sea parte de MetaDocencia.
+Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluyen nuestra cuenta de correo electrónico, nuestro Slack, , nuestra organización en GitHub y todos sus repositoriosnuestros talleres a través de Zoom y cualquier otro medio que sea parte de MetaDocencia.
 
 ## Aplicación
 
