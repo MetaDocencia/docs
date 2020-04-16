@@ -8,7 +8,7 @@ If you know how to use Git and GitHub and want to change, fix, add something, pl
 
 ## Attribution
 
-These contribution and maintenance rules were adapted from Teching Tech Together.
+These contribution and maintenance rules were adapted from [Teching Tech Together](http://teachtogether.tech/#s:joining-contributing)
 
 ## Communication chanels
 
