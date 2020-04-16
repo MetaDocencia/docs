@@ -3,8 +3,7 @@
 Gracias por querer contribuir a MetaDocencia!
 
 Se aceptan contribuciones de todo tipo, desde sugerencias de mejoras hasta erratas y material nuevo. Todas las personas que
-contribuyan deben cumplir con nuestro Código de conducta.  Al enviar tu trabajo, aceptás que puede incorporarse en forma original o 
-editada y liberarse bajo la misma licencia que el resto de este material. 
+contribuyan deben cumplir con nuestro [Código de conducta](CODIGO-DE-CONDUCTA.md).  Al enviar tu trabajo, aceptás que puede incorporarse en forma original o editada y liberarse bajo la misma [licencia](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md) que el resto de este material. 
 
 Si se incorporamos tu material, te agregaremos a los reconocimientos y/o como autor según corresponda a menos que solicites lo contrario.
 
@@ -13,10 +12,6 @@ Si sabes cómo usar Git y GitHub y desea cambiar, arreglar, agregar algo, por fa
 ## Atribución
 
 Estas reglas de contrinución y mantenimiento fueron adaptadas de [Teching Tech Together](http://teachtogether.tech/#s:joining-contributing)
-
-# Código de conducta
-
-Tenemos un [código de conducta](CODIGO-DE-CONDUCTA.md) que todos nosotros debemos respetar.
 
 # Canales de comunicación
 
