@@ -30,7 +30,7 @@ We also have the responsibility and reserve the right to remove, edit or reject 
 
 ## Scope
 
-This code of conduct applies to all spaces related to MetaDocencia. This includes our email account, our Slack, our workshops through Zoom and any other media that is part of MetaDocencia.
+This code of conduct applies to all spaces related to MetaDocencia. This includes our email account, our Slack, our workshops through Zoom, our GitHub organization and all the repositories and any other media that is part of MetaDocencia.
 
 ## Application
 
