@@ -39,4 +39,4 @@ Seguimos este [código de conducta](CÓDIGO-DE-CONDUCTA.md).
 
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Teaching Tech Together](https://teachtogether.tech/).
 
-Parte de nuestro material está basado en material de [RStudio Education](https://education.rstudio.com/)
+Parte de nuestro material está basado en material de [RStudio Education](https://education.rstudio.com/).
