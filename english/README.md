@@ -38,3 +38,5 @@ We are guided by these teaching principles:
 We follow this [code of conduct](CODE-OF-CONDUCT.md).
 
 These principles arise from the experience of [The Carpentries](https://carpentries.org), which has been training teachers for two decades and are developed in the free book [Teaching Tech Together](https://teachtogether.tech/).
+
+Part of our course maerial are based on [RStudio Education](https://education.rstudio.com/) materials.
