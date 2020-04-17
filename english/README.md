@@ -8,7 +8,7 @@ We aim to share practical tools to help teachers to teach online. We teach onlin
 
 Our virtual courses are short and centered in the design of materials and classroom management to maximise students' learning without anyone getting exhausted. 
 	
-All our courses are free and our materials are [openly licensed](LICENCE.md). That is, you can reuse or edit any material, with the condition that you include a reference to our [website](https://metadocencia.netlify.com/) in any material you generate by reusing our content.
+All our courses are free and our materials are [openly licensed](LICENCE.md). That is, you can reuse or edit any material, with the condition that you include a reference to our [website](https://metadocencia.netlify.app/en/) in any material you generate by reusing our content.
 
 Our courses help to improve the learning process both in in-person and online classes. We use modern, evidence-based teaching techniques that improve educational outcomes. 
 
