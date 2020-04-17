@@ -4,12 +4,12 @@ In order to foster an open, safe and friendly environment, we, the organizers, a
 
 ## Our standards
 
-We do not tolerate harassment of MetaDocencia participants in any form. 
+We do not tolerate harassment at MetaDocencia in any form. 
 
-#### Examples of behavior that contribute to creating a positive environment for our community
+#### Examples of behaviors that contribute to creating a positive environment for our community:
 
 * Demonstrating empathy and kindness to others
-* Respecting different opinions, points of view and experiences
+* Respecting different opinions, points of view, and experiences
 * Giving and accepting appropriate constructive feedback
 * Accepting responsibility and apologising to those we affect for our mistakes, learning from experience
 * Focusing on what is best not only for us as individuals, but for the community at large
@@ -24,24 +24,24 @@ We do not tolerate harassment of MetaDocencia participants in any form.
 
 ## Our responsibilities
 
-Those of us who make MetaDocencia are responsible for clarifying standards of acceptable behavior and reserve the right of admission or permanence, temporarily or permanently, in the MetaDocencia community for any case of behavior we consider unacceptable.
+Those of us who make MetaDocencia are responsible for clarifying standards of acceptable behavior and reserve the right of admission or permanence, temporarily or permanently, in the MetaDocencia community for any behavior we consider unacceptable.
 
 We also have the responsibility and reserve the right to remove, edit or reject comments, materials and other contributions that are not in line with this Code of Conduct. 
 
 ## Scope
 
-This code of conduct applies to all spaces related to MetaDocencia. This includes our email account, our Slack, our workshops through Zoom, our GitHub organization and all the repositories and any other media that is part of MetaDocencia.
+This code of conduct applies to all spaces related to MetaDocencia. This includes our email account, our Slack, our workshops through Zoom, our GitHub organization and all its repositories, and any other part of MetaDocencia.
 
 ## Application
 
-Cases of abusive, harassing or unacceptable behavior can be reported by sending an email to [metadocencia@gmail.com](mailto:metadocencia@gmail.com). All messages will be reviewed and investigated and will result in whatever response the founders deem necessary and appropriate to the circumstances. 
+Cases of abusive, harassing, or unacceptable behavior can be reported by sending an email to [metadocencia@gmail.com](mailto:metadocencia@gmail.com). All messages will be reviewed and investigated and will result in whatever response the founders deem necessary and appropriate to the circumstances. 
 
-Founders will respect the privacy and security of those who report incidents.
+Founders will respect the privacy and safety of those who report incidents.
 
 ## Attribution
 
 This Code of Conduct is adapted from [Contributor Covenant](https://www.contributor-covenant.org), version 2.0,
-available at https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html
+available at [](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html).
 
 
 
