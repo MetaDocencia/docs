@@ -4,7 +4,7 @@ Con el objetivo de fomentar un ambiente abierto, seguro y amigable, quienes orga
 
 ## Nuestros estándares
 
-No toleramos el acoso de los participantes de MetaDocencia de ninguna forma. 
+No toleramos el acoso de quienes participan en MetaDocencia de ninguna forma. 
 
 #### Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
@@ -30,13 +30,13 @@ También tenemos la responsabilidad y nos reservamos el derecho de eliminar, edi
 
 ## Alcance
 
-Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluyen nuestra cuenta de correo electrónico, nuestro Slack, , nuestra organización en GitHub y todos sus repositoriosnuestros talleres a través de Zoom y cualquier otro medio que sea parte de MetaDocencia.
+Este código de conducta aplica a todos los espacios relacionados con MetaDocencia. Esto incluyen nuestra cuenta de correo electrónico, nuestro Slack, nuestra organización en GitHub y todos sus repositorios, nuestros talleres a través de Zoom y cualquier otro medio que sea parte de MetaDocencia.
 
 ## Aplicación
 
-Los casos de comportamiento abusivo, acosador o inaceptable pueden ser informados enviando un correo electrónico a [metadocencia@gmail.com](mailto:metadocencia@gmail.com). Todas los mensajes serán revisados e investigados y darán como resultado la respuesta que las fundadoras consideren necesaria y apropiada a las circunstancias. 
+Los casos de comportamiento abusivo, acosador o inaceptable pueden ser informados enviando un correo electrónico a [metadocencia@gmail.com](mailto:metadocencia@gmail.com). Todas los mensajes serán revisados e investigados y darán como resultado la respuesta la respuesta que consideremos necesaria y apropiada a las circunstancias. 
 
-Las fundadoras respetaremos la privacidad y la seguridad de quienes reporten incidentes.
+Quienes fundamos MetaDocencia respetaremos la privacidad y la seguridad de quienes reporten incidentes.
 
 ## Atribución
 
