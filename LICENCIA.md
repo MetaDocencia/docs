@@ -1,5 +1,7 @@
 # Creative Commons Atribución/Reconocimiento-NoComercial 4.0 Licencia Pública Internacional — CC BY-NC 4.0
 
+[Resumen amigable para personas sin formación en aspectos legales](https://www.metadocencia.org/terms/)
+
 Al ejercer los Derechos Licenciados (definidos a continuación), Usted acepta y
 acuerda estar obligado por los términos y condiciones de esta Licencia
 Internacional Pública de Atribución/Reconocimiento-NoComercial-CompartirIgual
