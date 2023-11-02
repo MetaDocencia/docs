@@ -1,10 +1,10 @@
-# Pautas de convivencia
+# Pautas de Convivencia
 
 Quienes organizamos MetaDocencia nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas.
 
 Todas las personas que participen en MetaDocencia, incluyendo integrantes del equipo coordinador, colaboradores, equipo asesor y participantes deberán aceptar y respetar las siguientes pautas de convivencia.
  
-Si presencias una situación que viole este código de conducta, por favor, reportalo a [pdc@metadocencia.org](mailto:pdc@metadocencia.org) o al [equipo de Pautas de Convivencia](#miembros_cdc).
+Si presencias una situación que viole este código de conducta, por favor, reportalo a [pdc@metadocencia.org](mailto:pdc@metadocencia.org) o al [equipo de Pautas de Convivencia](#miembros_pdc).
 
 #### Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
@@ -36,7 +36,7 @@ Los casos de comportamiento inaceptable pueden ser informados enviando un correo
 
 Las personas que forman parte del equipo de Pautas de Convivencia se comprometen a recusarse en caso de haber conflicto de intereses asociados al reporte de un incidente. 
 
-### Integrantes del equipo de Pautas de Convivencia {#miembros_cdc}
+### Integrantes del equipo de Pautas de Convivencia {#miembros_pdc}
 
 * [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
 * [Ivan Poggio](https://www.metadocencia.org/authors/ivan/)
