@@ -34,4 +34,4 @@ Esta es una lista no-exhaustiva de cosas en las que podés dar una mano:
 	En nuestros cursos siempre tenemos ayudantes que responden consultas y resuelven problemas. 
 
 - **Dictado de cursos**
-	Podés dictar nuestros cursos, pero antes esperamos que participes en las actividades anteriores -- especialmente la de ser ayudante.
+	Podés dictar nuestros cursos, pero antes esperamos que participes en las actividades anteriores, especialmente la de ser ayudante.
