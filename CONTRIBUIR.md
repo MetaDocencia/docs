@@ -3,7 +3,7 @@
 ¡Gracias por querer contribuir a MetaDocencia!
 
 Aceptamos contribuciones de todo tipo, desde sugerencias de mejoras hasta erratas y material nuevo. Todas las personas que
-contribuyan deben cumplir con nuestro [código de conducta](CÓDIGO-DE-CONDUCTA.md).  Al enviar tu trabajo, aceptás que puede incorporarse en forma original o editada y liberarse bajo la misma [licencia](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md) que el resto de este material. 
+contribuyan deben cumplir con nuestras [pautas de convivencia](CÓDIGO-DE-CONDUCTA.md).  Al enviar tu trabajo, aceptás que puede incorporarse en forma original o editada y liberarse bajo la misma [licencia](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md) que el resto de este material. 
 
 Si incorporamos tu material, te agregaremos a los reconocimientos y/o como autor/a según corresponda, a menos que solicites lo contrario.
 
