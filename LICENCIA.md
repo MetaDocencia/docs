@@ -34,7 +34,7 @@ a. **Otorgamiento de la licencia.**
 
 1. Sujeto a los términos y condiciones de esta Licencia Pública, el Licenciante le otorga a Usted una licencia de carácter global, gratuita, no transferible a terceros, no exclusiva e irrevocable para ejercer los Derechos Licenciados sobre el Material Licenciado para:
 
-  a. reproducir y Compartir el Material Licenciado, en su totalidad o en parte; y
+  a. reproducir y Compartir el Material Licenciado, en su totalidad o en parte; y  
   b. producir, reproducir y Compartir Material Adaptado.
 
 3. **Excepciones y Limitaciones.** Para evitar cualquier duda, donde se apliquen Excepciones y Limitaciones al uso del Material Licenciado, esta Licencia Pública no será aplicable, y Usted no tendrá necesidad de cumplir con sus términos y condiciones.
