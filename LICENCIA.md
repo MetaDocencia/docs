@@ -63,14 +63,14 @@ Su ejercicio de los Derechos Licenciados está expresamente sujeto a las condici
 a. **Atribución/Reconocimiento.**
 
 1. Si Usted comparte el Material Licenciado (incluyendo en forma modificada), Usted debe:
-  a. Conservar lo siguiente si es facilitado por el Licenciante con el Material Licenciado:
-  i. identificación del creador o los creadores del Material Licenciado y de cualquier otra persona designada para recibir Atribución/Reconocimiento, de cualquier manera razonable solicitada por el Licenciante (incluyendo por seudónimo si este ha sido designado);
-  ii. un aviso sobre derecho de autor;
-  iii. un aviso que se refiera a esta Licencia Pública;
-  iv. un aviso que se refiera a la limitación de garantías;
-  v. un URI o un hipervínculo al Material Licenciado en la medida razonablemente posible;
-  b. Indicar si Usted modificó el Material Licenciado y conservar una indicación de las modificaciones anteriores; e
-  c. Indicar que el Material Licenciado está bajo esta Licencia Pública, e incluir el texto, el URI o el hipervínculo a esta Licencia Pública.
+    a. Conservar lo siguiente si es facilitado por el Licenciante con el Material Licenciado:
+        i. identificación del creador o los creadores del Material Licenciado y de cualquier otra persona designada para recibir Atribución/Reconocimiento, de cualquier manera razonable solicitada por el Licenciante (incluyendo por seudónimo si este ha sido designado);
+        ii. un aviso sobre derecho de autor;
+        iii. un aviso que se refiera a esta Licencia Pública;
+        iv. un aviso que se refiera a la limitación de garantías;
+        v. un URI o un hipervínculo al Material Licenciado en la medida razonablemente posible;
+    b. Indicar si Usted modificó el Material Licenciado y conservar una indicación de las modificaciones anteriores; e
+    c. Indicar que el Material Licenciado está bajo esta Licencia Pública, e incluir el texto, el URI o el hipervínculo a esta Licencia Pública.
 
 2. Usted puede satisfacer las condiciones de la sección 3(a)(1) de cualquier forma razonable según el medio, las maneras y el contexto en los cuales Usted Comparta el Material Licenciado. Por ejemplo, puede ser razonable satisfacer las condiciones facilitando un URI o un hipervínculo a un recurso que incluya la información requerida.
 
