@@ -1,6 +1,4 @@
----
-title: Community Guidelines
----
+# Community Guidelines
 
 We, as contributors of MetaDocencia, are committed to fostering an open, safe, and friendly environment and ensuring the participation of everyone in our activities and virtual spaces, regardless of age, gender, sexual orientation, disability, physical appearance, nationality, ethnicity, beliefs, ideology, or access to resources.
 
