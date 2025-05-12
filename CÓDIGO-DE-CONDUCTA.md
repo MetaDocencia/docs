@@ -38,9 +38,9 @@ Las personas que forman parte del equipo de Pautas de Convivencia se comprometen
 
 ### Integrantes del equipo de Pautas de Convivencia {#miembros_pdc}
 
-* [Romina Pendino](https://www.metadocencia.org/authors/rominapedino/)
-* [Ivan Poggio](https://www.metadocencia.org/authors/ivan/)
-* [Mónica Alonso](https://www.metadocencia.org/authors/monialonso/)
+* [Paz Miguez](https://www.metadocencia.org/authors/pazmiguez/)
+* [Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)
+* [Irene Vazano](https://www.metadocencia.org/authors/irenevazano/)
 
 ## Atribución
 
