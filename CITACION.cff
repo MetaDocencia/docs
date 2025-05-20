@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: Para referenciar la última versión de MetaDocencia, por favor citarla como se indica a continuación.
+title: Documentos MetaDocencia
+abstract: Quiénes somos y cómo funcionamos
+authors:
+  - name: "MetaDocencia"
+version: 1.2
+identifiers:
+  - description: Esta es la colección de documentos que comunican la misión, visión y estructura de MetaDocencia.
+    type: 
+    value: ""
+license: "CC-BY-4.0"
+date-released: "2025-05-20"
+references:
+  - type: docs
+    authors:
+      - family-names: Todas las personas colaboradoras
+        given-names: MetaDocencia
+    title: "MetaDocencia"
+    year: 2025
