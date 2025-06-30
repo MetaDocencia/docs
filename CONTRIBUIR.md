@@ -11,7 +11,7 @@ Si sabes cómo usar Git y GitHub y quieres cambiar, arreglar, agregar algo, por 
 
 ## Atribución
 
-Estas reglas de contrinución y mantenimiento fueron adaptadas de [Teaching Tech Together](http://teachtogether.tech/#s:joining-contributing).
+Estas reglas de contribución y mantenimiento fueron adaptadas de [Teaching Tech Together](http://teachtogether.tech/#s:joining-contributing).
 
 # Canales de Comunicación
 
